@@ -2,12 +2,12 @@
 
 ``` http://choeruuaspemrograman.epizy.com/ ```
 
-[img1](/img/Screenshot%20(401).png)
+![img1](/img/u1.png)
 
-[img2](/img/Screenshot%20(405).png)
+![img2](/img/u2.png)
 
-[img3](/img/Screenshot%20(406).png)
+![img3](/img/u3.png)
 
-[img4](/img/Screenshot%20(407).png)
+![img4](/img/u4.png)
 
-[img5](/img/Screenshot%20(408).png)
+![img5](/img/u5.png)
